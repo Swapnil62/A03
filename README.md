@@ -31,3 +31,6 @@ control
 
 **Repository** - A repository is the most basic element of GitHub. They are easiest to imagine as a project's folder.
 
+References:
+
+https://docs.github.com/en/get-started/quickstart/github-glossary 
