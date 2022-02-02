@@ -5,9 +5,9 @@ Directions on using Webstorm:
 
 Glossary:
 
-Branch - A branch is parallel version of a repository.
+**Branch** - A branch is parallel version of a repository.
 
-Clone - A clone is a copy of repository that lives on your computer instead of an website's server somewhere, or the act of making that copy.
+**Clone** - A clone is a copy of repository that lives on your computer instead of an website's server somewhere, or the act of making that copy.
 
 Commit - A commit is an individual change to a file or set of files
 
