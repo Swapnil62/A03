@@ -1,6 +1,27 @@
 # A03
 
-**Directions on using Webstorm:**
+**Step by step tutorial for GIT:**
+
+Source : https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners 
+
+Step 1: Install git and create an account on GitHub
+Step 2: Create your first GitHub Repository by clicking the + button on the top-right corner
+Step 3: Add files to your new repository
+Step 4: Add a file to Staging environment
+Step 5: Create a commit
+Step 6: Create a new branch
+Step 7: Push a branch to Github
+Step 8: Create a pull request
+Step 9: Merge pull request
+Step 10: Get changes on Github back to your computer
+
+**Step by step tutorial for Webstorm:**
+
+Source: https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html 
+
+Webstorm is an integrated development environment for coding in JavaScript and its related techologies, including TypeScript, React, Vue, Angular, Node.js, HTML, and stylesheets.
+
+Directions on using Webstorm:
 
 To open a new project : 
     - On the Welcom Screen, click Open and then select the folder with your application in the dialog that opens
@@ -8,6 +29,8 @@ To open a new project :
 To create a new file in project:
     - In the Project tool window, select the folder where you want to create a new file and press ⌘ + N.
     - Select the file type for a file that you want to create such as HTML file, JavaScript file, etc.
+
+Detailed step by step guide can be found in the above link.
 
 Glossary:
 
