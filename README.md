@@ -2,6 +2,12 @@
 
 **Directions on using Webstorm:**
 
+To open a new project : 
+    - On the Welcom Screen, click Open and then select the folder with your application in the dialog that opens
+
+To create a new file in project:
+    - In the Project tool window, select the folder where you want to create a new file and press ⌘ + N.
+    - Select the file type for a file that you want to create such as HTML file, JavaScript file, etc.
 
 Glossary:
 
